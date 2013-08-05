@@ -1,4 +1,4 @@
-controlar-acuario
+Controlar acuario
 =================
 
-Controlar la temperatura, encendido de luces y nivel del agua.
+Controlar la temperatura, encendido de luces y nivel de agua.
